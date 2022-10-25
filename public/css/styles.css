@@ -1,0 +1,92 @@
+.groupCard  {
+    padding: 40px;
+    text-align: center;
+}
+table {
+
+    margin: 0 auto;
+
+}
+
+.red  {
+    color:red;
+}
+
+.blue   {
+    color:blue;
+}
+
+.green    {
+    color:green;
+}
+.location   {
+    text-align: center;
+}
+
+#boutonGauche   {
+    padding-right: 60px;
+}
+
+
+.cardPadding    {
+    padding: 10px;
+}
+.navPerso, .card-header{
+    background-color: rgb(163, 211, 255);
+}
+.card-body    {
+    background-color: rgb(225, 250, 208);
+}
+#indexBody,#hourlyBody {
+    background-image: url("https://www.trip-usa-canada.com/wp-content/uploads/2019/12/moraine-lake.jpg");
+    height: 500px;
+    background-position: center;
+    /* background-repeat: repeat; */
+    /* background-size: cover; */
+    position: relative;
+    opacity: 100%;
+}
+.texteStyle {
+    line-height: normal;
+    font-size:small;
+    font-weight: 700;
+  }
+.padCarousel    {
+    padding-bottom: 50px;
+    padding-left: 30px;
+    padding-right: 40px;
+}
+
+.carouselBG {
+    background-color: aliceblue;
+    opacity: 100%;
+}
+
+div.carouselBG {
+    margin: 30px;
+    background-color: rgb(163, 211, 255);
+    border: 1px solid black;
+    opacity: 0.85;
+  }
+  
+div.carouselBG p {
+    margin: 5%;
+    font-weight: bold;
+    color: #000000;
+  }
+
+.menuCarousel span{
+    font-weight: 600;
+}
+
+.footer {
+    text-align: left;
+    color:red;
+    font-size:x-small;
+    position:fixed;
+    bottom:0;
+
+}
+.footerPad1   {
+        padding-top: 50px;
+}
